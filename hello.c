@@ -1,5 +1,5 @@
 /*Darin Schlautman
-*2019/08/26
+*2019/08/28
 *Hello.c
 */
 
@@ -9,5 +9,6 @@
 int main(int argc, char **argv) {
 
   printf("Darin Schlautman\n");
+  printf("Electrical Engineering\n");
   return 0;
 }

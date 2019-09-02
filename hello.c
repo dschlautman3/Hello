@@ -1,6 +1,8 @@
-/*Darin Schlautman
-*2019/08/28
-*Hello.c
+/*
+*Author: Darin Schlautman
+*Date: 2019/08/28
+*
+*This is a basic program that is very similar to a Hello World! program
 */
 
 #include <stdlib.h>
